@@ -13,7 +13,7 @@ Summary(pl.UTF-8):	Twisted - silnik sieciowy napisany w Pythonie
 Name:		python-twisted
 # keep 20.x here for python2 support
 Version:	20.3.0
-Release:	6
+Release:	7
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://twistedmatrix.com/Releases/Twisted/20.3/Twisted-%{version}.tar.bz2
